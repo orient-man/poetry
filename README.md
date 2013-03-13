@@ -4,3 +4,4 @@
   * Poe
   * Tolkien
   * Win
+  * Zbigniew Herbert
