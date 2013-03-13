@@ -1,0 +1,12 @@
+*.log
+target/
+*.iml
+*.ipr
+*.ipj
+.classpath
+.project
+.settings/
+build/
+out/
+bin/
+
